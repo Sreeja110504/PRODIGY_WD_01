@@ -1,0 +1,367 @@
+<!-- Home page Code for creating an interactive navigation bar -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="js/myfile.js"></script>
+</head>
+<body>
+      <header>
+        <nav class="navbar">
+          <div class="left border">My Shop</div>
+          <div class="right">
+              <ul>
+
+                  <li class="home border"><a href="index.html">Home</a></li>
+
+
+                  <li class="aboutus border"><a href="Aboutus.html" target="_main">About Us</a></li>
+
+                
+                  <li class="shop border"><a href="shop.html" target="_main">Shop Online</a></li>
+                 
+                  <li class="order border"><a href="orders.html" target="_main">Your Orders</a></li>
+
+
+                  <li class="contact border"><a href="contact.html" target="_main">Contact Us</a></li>
+                  <div class="nav-search">
+                    <select class="search-select">
+                        <option>All</option>
+                        <option>Devices</option>
+                        <option>Fashion</option>
+                        <option>Pharmacy</option>
+                        <option>Apps and games</option>
+                        <option>Fresh Food</option>
+                        <option>Beauty</option>
+                        <option>Books</option>
+                        <option>Cars</option>
+                        <option>Accessories</option>
+                        <option>Pet Suplies</option>
+                    </select>
+                    <input placeholder="Search My Shop" class="search-input">
+                    <div class="search-icon">
+                    </div>
+                </div>
+              </ul>
+          </div>
+      </nav>
+      </header>
+</body>
+</html>
+
+<!-- About us page Code for creating an interactive navigation bar -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+          <div class="left border">My Shop</div>
+          <div class="right">
+              <ul>
+
+                  <li class="home border"><a href="index.html">Home</a></li>
+
+
+                  <li class="aboutme border"><a href="Aboutus.html">About Us</a></li>
+
+
+                  <li class="projects border"><a href="shop.html">Shop Online</a></li>
+
+
+                  <li class="education border"><a href="orders.html">Your Orders</a></li>
+
+
+                  <li class="contact border"><a href="contact.html">Contact Us</a></li>
+                  <div class="nav-search">
+                    <select class="search-select">
+                        <option>All</option>
+                        <option>Devices</option>
+                        <option>Fashion</option>
+                        <option>Pharmacy</option>
+                        <option>Apps and games</option>
+                        <option>Fresh Food</option>
+                        <option>Beauty</option>
+                        <option>Books</option>
+                        <option>Cars</option>
+                        <option>Accessories</option>
+                        <option>Pet Suplies</option>
+                    </select>
+                    <input placeholder="Search My Shop" class="search-input">
+                    <div class="search-icon">
+                        <i class="fa-solid fa-magnifying-glass"></i>
+                    </div>
+                </div>
+              </ul>
+          </div>
+      </nav>
+      </header>
+    
+</body>
+</html>
+
+<!-- Shop page Code for creating an interactive navigation bar -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shop With Us</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+          <div class="left border">My Shop</div>
+          <div class="right">
+              <ul>
+
+                  <li class="home border"><a href="index.html">Home</a></li>
+
+
+                  <li class="aboutme border"><a href="Aboutus.html">About Us</a></li>
+
+
+                  <li class="projects border"><a href="shop.html">Shop Online</a></li>
+
+
+                  <li class="education border"><a href="orders.html">Your Orders</a></li>
+
+
+                  <li class="contact border"><a href="contact.html">Contact Us</a></li>
+                  <div class="nav-search">
+                    <select class="search-select">
+                        <option>All</option>
+                        <option>Devices</option>
+                        <option>Fashion</option>
+                        <option>Pharmacy</option>
+                        <option>Apps and games</option>
+                        <option>Fresh Food</option>
+                        <option>Beauty</option>
+                        <option>Books</option>
+                        <option>Cars</option>
+                        <option>Accessories</option>
+                        <option>Pet Suplies</option>
+                    </select>
+                    <input placeholder="Search My Shop" class="search-input">
+                    <div class="search-icon">
+                        <i class="fa-solid fa-magnifying-glass"></i>
+                    </div>
+                </div>
+              </ul>
+          </div>
+      </nav>
+      </header>
+    
+</body>
+</html>
+<!--Order page Code for creating an interactive navigation bar -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Orders</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+          <div class="left border">My Shop</div>
+          <div class="right">
+              <ul>
+
+                  <li class="home border"><a href="index.html">Home</a></li>
+
+
+                  <li class="aboutme border"><a href="Aboutus.html">About Us</a></li>
+
+
+                  <li class="projects border"><a href="shop.html">Shop Online</a></li>
+
+
+                  <li class="education border"><a href="orders.html">Your Orders</a></li>
+
+
+                  <li class="contact border"><a href="contact.html">Contact Us</a></li>
+                  <div class="nav-search">
+                    <select class="search-select">
+                        <option>All</option>
+                        <option>Devices</option>
+                        <option>Fashion</option>
+                        <option>Pharmacy</option>
+                        <option>Apps and games</option>
+                        <option>Fresh Food</option>
+                        <option>Beauty</option>
+                        <option>Books</option>
+                        <option>Cars</option>
+                        <option>Accessories</option>
+                        <option>Pet Suplies</option>
+                    </select>
+                    <input placeholder="Search My Shop" class="search-input">
+                    <div class="search-icon">
+                        <i class="fa-solid fa-magnifying-glass"></i>
+                    </div>
+                </div>
+              </ul>
+          </div>
+      </nav>
+      </header>
+    
+</body>
+</html>
+
+<!--Contact page Code for creating an interactive navigation bar -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+          <div class="left border">My Shop</div>
+          <div class="right">
+              <ul>
+
+                  <li class="home border"><a href="index.html">Home</a></li>
+
+
+                  <li class="aboutme border"><a href="Aboutus.html">About Us</a></li>
+
+
+                  <li class="projects border"><a href="shop.html">Shop Online</a></li>
+
+
+                  <li class="education border"><a href="orders.html">Your Orders</a></li>
+
+
+                  <li class="contact border"><a href="contact.html">Contact Us</a></li>
+                  <div class="nav-search">
+                    <select class="search-select">
+                        <option>All</option>
+                        <option>Devices</option>
+                        <option>Fashion</option>
+                        <option>Pharmacy</option>
+                        <option>Apps and games</option>
+                        <option>Fresh Food</option>
+                        <option>Beauty</option>
+                        <option>Books</option>
+                        <option>Cars</option>
+                        <option>Accessories</option>
+                        <option>Pet Suplies</option>
+                    </select>
+                    <input placeholder="Search My Shop" class="search-input">
+                    <div class="search-icon">
+                        <i class="fa-solid fa-magnifying-glass"></i>
+                    </div>
+                </div>
+              </ul>
+          </div>
+      </nav>
+      </header>
+    
+</body>
+</html>
+
+ /* css */
+  * {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: pink;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+nav {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 80px;
+    background-color: rgb(18, 18, 62);
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    list-style: none;
+    margin: 0 23px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+nav ul li a:hover {
+    color: black;
+    font-size: 1.02rem;
+}
+
+.navbar:hover{
+    background-color: red;
+}
+
+.nav-search {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: pink;
+  height: 20px;
+  width:300px;
+ 
+}
+
+.search-select {
+  background-color: #f3f3f3;
+  width:50px;
+  text-align: center;
+  border-top-left-radius:4px;
+  border-bottom-left-radius:4px;
+  border: none;
+}
+
+.search-input {
+  width:100%;
+  font-size: 1rem;
+  border:none;
+}
+
+.search-icon {
+  width: 45px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  font-size:1.2rem;
+  border-top-right-radius:4px;
+  border-bottom-right-radius:4px;
+  background-color: 0f1111;
+}
+
+.nav-search:hover {
+  border: 2px solid black;
+}
+.border {
+  border: 1.5px solid transparent;
+
+}
+
+.border:hover {
+  border: 1.5px solid white;
+}
