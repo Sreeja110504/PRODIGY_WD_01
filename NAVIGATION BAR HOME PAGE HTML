@@ -54,61 +54,7 @@
 
 
 
-<!-- Shop page Code for creating an interactive navigation bar -->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Shop With Us</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <header>
-        <nav class="navbar">
-          <div class="left border">My Shop</div>
-          <div class="right">
-              <ul>
 
-                  <li class="home border"><a href="index.html">Home</a></li>
-
-
-                  <li class="aboutme border"><a href="Aboutus.html">About Us</a></li>
-
-
-                  <li class="projects border"><a href="shop.html">Shop Online</a></li>
-
-
-                  <li class="education border"><a href="orders.html">Your Orders</a></li>
-
-
-                  <li class="contact border"><a href="contact.html">Contact Us</a></li>
-                  <div class="nav-search">
-                    <select class="search-select">
-                        <option>All</option>
-                        <option>Devices</option>
-                        <option>Fashion</option>
-                        <option>Pharmacy</option>
-                        <option>Apps and games</option>
-                        <option>Fresh Food</option>
-                        <option>Beauty</option>
-                        <option>Books</option>
-                        <option>Cars</option>
-                        <option>Accessories</option>
-                        <option>Pet Suplies</option>
-                    </select>
-                    <input placeholder="Search My Shop" class="search-input">
-                    <div class="search-icon">
-                        <i class="fa-solid fa-magnifying-glass"></i>
-                    </div>
-                </div>
-              </ul>
-          </div>
-      </nav>
-      </header>
-    
-</body>
-</html>
 <!--Order page Code for creating an interactive navigation bar -->
 <!DOCTYPE html>
 <html lang="en">
